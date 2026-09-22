@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Samantha! </h1>
 
-<!--
-**samanthaosowski/samanthaosowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Labs & Projects:</h2>
 
-Here are some ideas to get you started:
+- [Active Directory Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Certifications:</h2>
+
+- [Google Cybersecurity Professional](https://www.credly.com/badges/d40e4798-b743-4211-9cea-568f7c16f52e/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/8521e16a-2018-43ee-8cd9-a9e2490c40b8/public_url)
+
+<h2> Connect with me:</h2>
+[linkedin]: 
