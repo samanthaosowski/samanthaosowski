@@ -2,8 +2,8 @@
 
 <h2> Labs & Projects:</h2>
 
-- [Active Directory Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-
+- [Active Directory Lab](https://github.com/samanthaosowski/ActiveDirectoryLab)
+  
 <h2> Certifications:</h2>
 
 - [Google Cybersecurity Professional](https://www.credly.com/badges/d40e4798-b743-4211-9cea-568f7c16f52e/public_url)
